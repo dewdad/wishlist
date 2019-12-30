@@ -42,7 +42,7 @@ class ListState extends State<List> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('WISHLIST'),
+        title: Text('Wishlist'),
       ),
       body: _buildSuggestions(),
     );
