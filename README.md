@@ -12,4 +12,4 @@ Online sync is also prossible.
 
 ## Contributors
 
-Thomas Pauli, <mail@thomaspauli.ch>
+Thomas Pauli <mail@thomaspauli.ch>
