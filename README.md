@@ -8,6 +8,8 @@
 
 A simple app to track and share all your wishes. The app will parse the needed informations from an entered url and stores them in the local database.
 
+Online sync is also prossible.
+
 ## Contributors
 
 Thomas Pauli <mail@thomaspauli.ch>
