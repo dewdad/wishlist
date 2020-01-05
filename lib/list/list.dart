@@ -7,7 +7,7 @@ class ListState extends State<List> {
 
   Widget _buildSuggestions() {
     return ListView.builder(
-        padding: const EdgeInsets.all(16.0),
+        padding: const EdgeInsets.all(10.0),
         itemBuilder: (context, i) {
           if (i.isOdd) return Divider();
 
